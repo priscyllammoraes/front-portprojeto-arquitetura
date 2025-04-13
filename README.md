@@ -70,8 +70,8 @@ app-front/
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/priscyllammoraes/frontend-portfolio-projeto
-cd frontend-portfolio-projeto
+git clone https://github.com/priscyllammoraes/front-portprojeto-arquitetura
+cd front-portprojeto-arquitetura
 ```
 
 ### 2. Executar Servidor Local
